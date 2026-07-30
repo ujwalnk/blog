@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: "Ujwal N K" # the main title
 
-tagline: "A budding explorer. With an open eye & mind towards all special things in nature, technical stuff mankind has created. I keep exploring & thinking about the motive behind such wonderful things & what inspired to create." # it will display as the subtitle
+tagline: "A budding explorer. With an open eye & mind!"
 
 description: >- # used by seo meta and the atom feed
   Technical posts and articles of my interest.
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
